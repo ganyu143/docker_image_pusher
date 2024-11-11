@@ -1,1 +1,2 @@
 dreamacro/clash:latest
+langgenius/dify-web
